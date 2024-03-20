@@ -43,3 +43,4 @@ const BannerCom = () => {
 };
 
 export default BannerCom;
+
